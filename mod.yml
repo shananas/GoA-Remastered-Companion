@@ -314,15 +314,15 @@ assets:
 - name: remastered\obj\B_EX170_LAST.mdlx\-4.dds
   method: copy
   source:
-  - name: remastered\obj\B_EX170_LAST.mdlx\-4.dds
+  - name: remastered\obj\B_EX170_LAST.mdlx\-6.dds
 - name: remastered\obj\B_EX170_LAST.mdlx\-5.dds
   method: copy
   source:
-  - name: remastered\obj\B_EX170_LAST.mdlx\-5.dds
+  - name: remastered\obj\B_EX170_LAST.mdlx\-4.dds
 - name: remastered\obj\B_EX170_LAST.mdlx\-6.dds
   method: copy
   source:
-  - name: remastered\obj\B_EX170_LAST.mdlx\-6.dds
+  - name: remastered\obj\B_EX170_LAST.mdlx\-5.dds
 - name: remastered\obj\B_EX170_LAST_LV99.mdlx\-0.dds
   method: copy
   source:
@@ -342,15 +342,15 @@ assets:
 - name: remastered\obj\B_EX170_LAST_LV99.mdlx\-4.dds
   method: copy
   source:
-  - name: remastered\obj\B_EX170_LAST_LV99.mdlx\-4.dds
+  - name: remastered\obj\B_EX170_LAST_LV99.mdlx\-6.dds
 - name: remastered\obj\B_EX170_LAST_LV99.mdlx\-5.dds
   method: copy
   source:
-  - name: remastered\obj\B_EX170_LAST_LV99.mdlx\-5.dds
+  - name: remastered\obj\B_EX170_LAST_LV99.mdlx\-4.dds
 - name: remastered\obj\B_EX170_LAST_LV99.mdlx\-6.dds
   method: copy
   source:
-  - name: remastered\obj\B_EX170_LAST_LV99.mdlx\-6.dds
+  - name: remastered\obj\B_EX170_LAST_LV99.mdlx\-5.dds
 - name: remastered\obj\B_NM000.mdlx\-0.dds
   method: copy
   source:
@@ -358,15 +358,15 @@ assets:
 - name: remastered\obj\B_NM000.mdlx\-1.dds
   method: copy
   source:
-  - name: remastered\obj\B_NM000.mdlx\-1.dds
+  - name: remastered\obj\B_NM000.mdlx\-3.dds
 - name: remastered\obj\B_NM000.mdlx\-2.dds
   method: copy
   source:
-  - name: remastered\obj\B_NM000.mdlx\-2.dds
+  - name: remastered\obj\B_NM000.mdlx\-1.dds
 - name: remastered\obj\B_NM000.mdlx\-3.dds
   method: copy
   source:
-  - name: remastered\obj\B_NM000.mdlx\-3.dds
+  - name: remastered\obj\B_NM000.mdlx\-2.dds
 - name: remastered\obj\B_NM000.mdlx\-4.dds
   method: copy
   source:
@@ -418,19 +418,19 @@ assets:
 - name: remastered\obj\N_CM000_BTL.mdlx\-3.dds
   method: copy
   source:
-  - name: remastered\obj\N_CM000_BTL.mdlx\-3.dds
+  - name: remastered\obj\N_CM000_BTL.mdlx\-5.dds
 - name: remastered\obj\N_CM000_BTL.mdlx\-4.dds
   method: copy
   source:
-  - name: remastered\obj\N_CM000_BTL.mdlx\-4.dds
+  - name: remastered\obj\N_CM000_BTL.mdlx\-6.dds
 - name: remastered\obj\N_CM000_BTL.mdlx\-5.dds
   method: copy
   source:
-  - name: remastered\obj\N_CM000_BTL.mdlx\-5.dds
+  - name: remastered\obj\N_CM000_BTL.mdlx\-3.dds
 - name: remastered\obj\N_CM000_BTL.mdlx\-6.dds
   method: copy
   source:
-  - name: remastered\obj\N_CM000_BTL.mdlx\-6.dds
+  - name: remastered\obj\N_CM000_BTL.mdlx\-4.dds
 - name: remastered\obj\W_EX010_U0.a.us\-0.dds
   method: copy
   source:
